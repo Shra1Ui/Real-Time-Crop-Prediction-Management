@@ -1,4 +1,3 @@
-Got it! Here's a cleaner, professional-looking version of your project documentation with proper structure, bullet points, and without extra formatting symbols like underlines or emojis:
 
 ---
 
@@ -105,7 +104,3 @@ The final model achieved an accuracy of **X%** (replace with actual). The **Rand
 * Dataset Source: [Kaggle](https://www.kaggle.com/datasets)
 * scikit-learn documentation
 * Inspiration from various agriculture AI solutions
-
----
-
-Would you like this saved in a markdown `.md` file or in a downloadable format?
